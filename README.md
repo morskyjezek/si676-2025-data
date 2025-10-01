@@ -17,7 +17,7 @@ These activities were designed with the intents to:
 * Understand how to use web-based services to share metadata (i.e., APIs, OAI-PMH);
 * Learn about, explain, and gain confidence in using common data encodings for library/archive/museum (LAM) metadata, including JSON and XML;
 * Develop a conceptual understanding of linked data concepts and how they are (or can be) applied in a digital collection environment;
-* Conceptualize and design metadata transformations, implement using computational tools (i.e., APIs, Python scripts, and OpenRefine) to extract, transform (crosswalk), and ingest metadata for digital library objects; 
+* Conceptualize and design metadata transformations, implement using computational tools (i.e., APIs, Python scripts, and OpenRefine) to extract, transform (crosswalk), and ingest metadata for digital library objects;
 * Create and implement a metadata application profile for a digital collection;
 * Find and use resources for keeping up with rapid developments, standards, and new tools or concepts for managing the networked environment and LAM metadata space.
 
@@ -25,7 +25,7 @@ These activities were designed with the intents to:
 
 There are a few specific folders:
 
-- `in-class-notebooks` contains notebooks or other files that document demonstration sor activities understaken in class
+- `in-class-notes` contains notebooks or other files that document demonstration sor activities understaken in class
 - `collection-site-materials` contains resources that may be useful for working on the course collection site activities
 
 ## Sources
