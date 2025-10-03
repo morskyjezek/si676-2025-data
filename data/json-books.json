@@ -1,0 +1,15 @@
+{
+  "Results": 2,
+  "isPrinted": true,
+  "format": null,
+  "books": [
+    {
+      "title": "Gone with the Wind",
+      "author": "Mitchell"
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Bronte"
+    }
+  ]
+}
