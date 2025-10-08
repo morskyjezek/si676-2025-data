@@ -1,0 +1,21 @@
+<record xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <header>
+        <identifier>oai:cdm17409.contentdm.oclc.org:rencen/0</identifier><datestamp>2023-03-20</datestamp><setSpec>rencen</setSpec>
+    </header>
+    <metadata>
+        <ns1:dc xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+            <dc:title>View of ongoing construction of the Renaissance Center towers</dc:title>
+            <dc:description>Image of the building progress on two of the four towers of the Renaissance Center.  Construction equipment is clearing visible.</dc:description>
+            <dc:identifier>rencen_05b</dc:identifier>
+            <dc:date>1973</dc:date>
+            <dc:type>still image</dc:type>
+            <dc:format>photographs</dc:format>
+            <dc:coverage>Detroit, Michigan</dc:coverage>
+            <dc:coverage>1970s</dc:coverage>
+            <dc:relation>Building the Detroit Renaissance Center</dc:relation>
+            <dc:rights>Users can cite and link to these materials without obtaining permission. Users can also use the materials for non-commercial educational and research purposes in accordance with fair use. For other uses or to obtain high resolution images, please contact the copyright holder.</dc:rights>
+            <dc:date>1973</dc:date>
+            <dc:identifier>http://cdm17409.contentdm.oclc.org/cdm/ref/collection/rencen/id/0</dc:identifier>
+        </ns1:dc>
+    </metadata>
+    </record>

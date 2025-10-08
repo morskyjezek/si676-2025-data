@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-model href="https://raw.githubusercontent.com/SAA-SDT/EAD3/master/ead3.rng"
+      type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<ead xmlns="http://ead3.archivists.org/schema/">
+  <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" relatedencoding="marc" repositoryencoding="iso15511" scriptencoding="iso15924"><recordid instanceurl="Reading Room &amp; website">00-1332</recordid><filedesc><titlestmt><titleproper>The Superior Papers </titleproper><titleproper localtype="filing">Superior Papers, The</titleproper><author>Jesse Johnston</author></titlestmt><publicationstmt><publisher>SI 667: Foundations of Digital Curation, winter 2023</publisher><address><addressline>105 S State St</addressline><addressline>Ann Arbor, Michigan 48109</addressline><addressline localtype="email">jajohnst@umich.edu</addressline></address><date>July 10, 2023</date><num>00.1332</num><p/></publicationstmt></filedesc><maintenancestatus value="derived"/><maintenanceagency countrycode="US"><agencycode>US-umsi</agencycode><agencyname>SI 667: Foundations of Digital Curation, winter 2023</agencyname></maintenanceagency><languagedeclaration><language langcode="eng">English</language><script scriptcode="Zyyy">Code for undetermined script</script><descriptivenote><p>Described in English.</p></descriptivenote></languagedeclaration><conventiondeclaration><abbr>dacs</abbr><citation>Describing Archives: A Content Standard</citation></conventiondeclaration><localcontrol localtype="findaidstatus"><term>in_progress</term></localcontrol><maintenancehistory><maintenanceevent><eventtype value="derived"/><eventdatetime>2023-09-26T09:31:50-04:00</eventdatetime><agenttype value="machine"/><agent>ArchivesSpace v3.4.1</agent><eventdescription>This finding aid was produced using ArchivesSpace on Tuesday September 26, 2023 at 09:31</eventdescription></maintenanceevent></maintenancehistory></control>
+  <archdesc level="collection">
+    <did>
+      <unittitle>The Superior Collection</unittitle>
+      <unitid>00.1332</unitid>
+      <unitid localtype="aspace_uri">/repositories/2/resources/1</unitid>
+      <repository>
+        <corpname>
+          <part>SI 667: Foundations of Digital Curation, winter 2023</part>
+        </corpname>
+      </repository>
+      <langmaterial>
+        <language langcode="eng">English</language>
+      </langmaterial>
+      <physdescstructured coverage="whole" physdescstructuredtype="spaceoccupied">
+        <quantity>1332</quantity>
+        <unittype>Linear Feet</unittype>
+        <physfacet>These are standard sized file containers. </physfacet>
+        <dimensions>Please measure.</dimensions>
+      </physdescstructured>
+      <physdesc localtype="container_summary">Boxes occupying 1,332 linear feet. They reach the bottom of the lake.</physdesc>
+      <unitdatestructured certainty="approximate" datechar="creation" era="ce" unitdatetype="bulk">
+        <daterange>
+          <fromdate standarddate="1850">1850</fromdate>
+          <todate standarddate="1975">1975</todate>
+        </daterange>
+      </unitdatestructured>
+      <unitdate certainty="approximate" datechar="creation" era="ce" unitdatetype="bulk">The Lake was formed approximately 1.2 billion years before the current era, materials in this collection may pertain to any aspect of the Lake. Most of the materials date from 1850 to 1975.</unitdate>
+    </did>
+    <controlaccess>
+      <subject identifier="https://id.loc.gov/authorities/subjects/sh85130609.html" source="lcsh">
+        <part>Superior, Lake</part>
+      </subject>
+      <geogname identifier="https://id.loc.gov/authorities/subjects/sh93001909.html" source="lcsh">
+        <part>Lake, Superior, Watershed</part>
+      </geogname>
+    </controlaccess>
+    <dsc><c id="aspace_edab5fb678b5e37fcf34130da5836686" level="series"><did><unittitle>Business Records</unittitle><unitid localtype="aspace_uri">/repositories/2/archival_objects/3</unitid><unitid>00-1332-01</unitid><unitdatestructured datechar="creation" unitdatetype="bulk"><daterange><fromdate standarddate="1850">1850</fromdate><todate standarddate="1975">1975</todate></daterange></unitdatestructured></did></c><c id="aspace_cf40ab6e8beda6e2fdb51e0a08d30e06" level="series"><did><unittitle>Correspondence</unittitle><unitid localtype="aspace_uri">/repositories/2/archival_objects/4</unitid><unitid>00-1332-02</unitid><unitdatestructured certainty="questionable" datechar="creation" era="ce" unitdatetype="bulk"><daterange><fromdate standarddate="1850">1850</fromdate><todate standarddate="1975">1975</todate></daterange></unitdatestructured></did></c><c id="aspace_5f14153a5cfd7f41c0b74cb59f429490" level="series"><did><unittitle>Shipwreck Files</unittitle><unitid localtype="aspace_uri">/repositories/2/archival_objects/1</unitid><unitid>deep-six</unitid></did><scopecontent id="aspace_7e625d5bbdb28c2317a6a28677ebbd83"><head>Scope and Contents</head><p>This series contains items (mostly boxes or individual folders) related to the investigation of and publicity about the destruction or disappearance of individual vesels (whether ships or smaller craft) on Lake Superior. The time period covered is any era of known wreckage, whether heavily documented or only known through story and lore. Information pertaining to individuals crewing or aboard a wrecked vessel may be filed separately and should be noted, if applicable.</p></scopecontent><c id="aspace_0d77dcd4a4330f180ac372a192c51427" level="file"><did><unittitle>Edmund Fitzgerald, Wreck of the</unittitle><unitid localtype="aspace_uri">/repositories/2/archival_objects/2</unitid><unitid>deep-six</unitid><unitdatestructured datechar="creation" unitdatetype="inclusive"><datesingle standarddate="1975-11-10">1975-11-10</datesingle></unitdatestructured></did></c></c></dsc>
+</archdesc>
+</ead>

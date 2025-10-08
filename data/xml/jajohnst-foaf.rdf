@@ -1,0 +1,42 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rda="http://rdvocab.info/">
+<!--  <owl:Ontology rdf:about="http://xmlns.com/foaf/0.1/" 
+    dc:title="Friend of a Friend (FOAF) vocabulary" 
+    dc:description="The Friend of a Friend (FOAF) RDF vocabulary, described using W3C RDF Schema and the Web Ontology Language." 
+    >
+  </owl:Ontology> -->
+<foaf:Person rdf:ID="jesse">
+<foaf:name>Jesse A. Johnston</foaf:name>
+<foaf:firstName>Jesse</foaf:firstName>
+<foaf:family_name>Johnston</foaf:family_name>
+<foaf:title>Ph.D.</foaf:title>
+<foaf:homepage rdf:resource="http://www.jesseajohnston.net/"/>
+<foaf:schoolHomepage rdf:resource="http://www.umich.edu/"/>
+<foaf:workplaceHomepage rdf:resource="http://www.neh.gov/"/>
+<foaf:depiction>
+<foaf:Image rdf:about="http://lh3.ggpht.com/VJzsbZ4cCNHmdaLDRxDBU14AapsOWxnJ8M-OTLopbw0-SAXxbsbyTyAb4OYN9QAa04WIWtSYy7Zin0rxmpvWYCp7=s200-c" dc:date="2010" dc:description="Photo of Jesse Johnston" dc:creator="Ricardo Punzalan"/>
+</foaf:depiction>
+<!-- Publications / selected list -->
+<foaf:publications>
+<foaf:Document rdf:ID="jamis-2010">
+<dc:creator>Jesse A. Johnston</dc:creator>
+<dc:title>The Cimbál (Cimbalom) and Folk Music in Moravian Slovakia and Valachia</dc:title>
+<dc:identifier>Journal of the American Musical Instrument Society</dc:identifier>
+<dc:date>2010</dc:date>
+<dc:type>Text</dc:type>
+<dc:description>This is a journal article published by Jesse A. Johnston in the Journal of the American Musical Instrument Society, volume 36, pages 78-117, published in the year 2010.</dc:description>
+<dcterms:uri dc:format="pdf" rdf:resource="http://deepblue.lib.umich.edu/handle/2027.42/87955"/>
+<dcterms:bibliographicCitation>Journal of the American Musical Instrument Society 36 (2010): pp. 78–117</dcterms:bibliographicCitation>
+<dcterms:abstract>This article presents an English-language introduction to the cimbalom, known in Czech as cimbál, as it is played in the Czech Republic. The article presents a holistic perspective on the cimbalom in Moravia, beginning with a descriptive organography, which covers Moravian organology evidence, historical iconography, and ethnographic evidence, with particular attention to the nineteenth-century ethnographic expeditions of Leos Janácek and folkloric nationalism. The article also proceeds to discuss musical style and the cimbalom's role in traditional ensemble music. The article concludes that, while the cimbalom's significance in Moravia has changed over time, the instrument has over the twentieth century become central to Moravian traditional music.</dcterms:abstract>
+</foaf:Document>
+</foaf:publications>
+<!-- Accounts/Networks -->
+<foaf:knows>
+<foaf:Person rdf:ID="ricky">
+<foaf:name>Ricardo Punzalan</foaf:name>
+<foaf:mbox_sha1sum>None</foaf:mbox_sha1sum>
+<rdfs:seeAlso rdf:resource="http://www.rpunzalan.com/"/>
+<foaf:homepage rdf:resource="http://www.rpunzalan.com/"/>
+</foaf:Person>
+</foaf:knows>
+</foaf:Person>
+</rdf:RDF>

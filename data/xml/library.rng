@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<element xmlns="http://relaxng.org/ns/structure/1.0" name="library">
+    <oneOrMore>
+        <element name="book">
+            <attribute name="id"/>
+            <attribute name="available"/>
+            <element name="isbn">
+                <text/>
+            </element>
+            <element name="title">
+                <attribute name="xml:lang"/>
+                <text/>
+            </element>
+            <oneOrMore>
+                <element name="author">
+                    <attribute name="id"/>
+                    <element name="name">
+                        <text/>
+                    </element>
+                    <optional>
+                        <element name="born">
+                            <text/>
+                        </element>
+                    </optional>
+                    <optional>
+                        <element name="died">
+                            <text/>
+                        </element>
+                    </optional>
+                </element>
+            </oneOrMore>
+            <zeroOrMore>
+                <element name="character">
+                    <attribute name="id"/>
+                    <element name="name">
+                        <text/>
+                    </element>
+                    <optional>
+                        <element name="born">
+                            <text/>
+                        </element>
+                    </optional>
+                    <element name="qualification">
+                        <text/>
+                    </element>
+                </element>
+            </zeroOrMore>
+        </element>
+    </oneOrMore>
+</element>

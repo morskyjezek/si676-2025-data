@@ -1,0 +1,284 @@
+<METS:mets
+xmlns:METS="http://www.loc.gov/METS/" 
+xmlns:mods="http://www.loc.gov/mods/v3" 
+xmlns:xlink="http://www.w3.org/1999/xlink" 
+xmlns:brownmix="http://dl.lib.brown.edu/md/brownmix/" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+xmlns:rights="http://cosimo.stanford.edu/sdr/metsrights/" 
+xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd 
+http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-0.xsd 
+http://dl.lib.brown.edu/md/brownmix/ http://dl.lib.brown.edu/md/brownmix/brownmix.xsd 
+http://cosimo.stanford.edu/sdr/metsrights/ http://cosimo.stanford.edu/sdr/metsrights.xsd"
+LABEL="Bonaparte adressing the legislative body" OBJID="1147733081265096" TYPE="image.prints">
+<METS:metsHdr CREATEDATE="2006-05-15T00:00:00.001" LASTMODDATE="2006-05-15T00:00:00.001">
+<METS:agent ROLE="CREATOR">
+<METS:name>Brown University Library, Center for Digital Initiatives</METS:name>
+</METS:agent>
+</METS:metsHdr>
+<METS:dmdSec ID="DM1">
+<METS:mdWrap MDTYPE="MODS">
+<METS:xmlData>
+<mods:mods ID="askb003741">
+      <mods:titleInfo>
+         <mods:title>Bonaparte adressing the legislative body</mods:title>
+      </mods:titleInfo>
+      <mods:name>
+         <mods:namePart>Elmes, William</mods:namePart>
+         <mods:namePart type="date">active 1797-1814</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="text">caricaturist</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name>
+         <mods:namePart>Tegg, Thomas</mods:namePart>
+         <mods:namePart type="date">1776-1845</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="text">publisher</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:originInfo>
+         <mods:place>
+            <mods:placeTerm type="text">London, GBR</mods:placeTerm>
+         </mods:place>
+         <mods:dateCreated>1813</mods:dateCreated>
+      </mods:originInfo>
+      <mods:physicalDescription>
+         <mods:extent>1 print; 44.4 x 27.2 cm</mods:extent>
+      </mods:physicalDescription>
+      <mods:abstract>Although the text quoted above Napoleon's head is lifted from a published translation of a speech made by Napoleon to the French Legislature, the caricaturist derides Napoleon's speech through his grotesque representation of the event. Napoleon stands in the center of the image in a dramatic pose. His feet are firmly planted in a broad stance; with his left hand he clutches his chest while wiping large tears from his eyes with the other. Despite the imperial finery of the throne, and the gold embroidery on his ermine robe and uniform, Napoleon is merely a broken man in tattered clothing. His feet protrude from his jack boots and his breeches and jacket are torn to reveal his bare legs and arms. Napoleon stands with his back towards the assembly, who gaze at him with expressions registering smug delight, shock, and dismay. In the front of the crowd that surround Napoleon's dais, members of the clergy and bishops listen with slow smiles spreading over their faces.
+      </mods:abstract>
+      <mods:note>Published by Thomas Tegg. Mary George notes that the text was probably abstacted from the European Magazine, lxiii. 162-3. She notes that the large omissions in this version of his speech are mostly anti-British statements, expressions of a desire for peace, and praise for the 'glorious contest' of America. 1813-02-24
+      </mods:note>
+      <mods:note type="text" displayLabel="Caption" lang="English">London Pubd Febry 24 1813 by Thos Tegg No 111 Cheapside</mods:note>
+      <mods:note type="text" displayLabel="Dialogue" lang="English">Napoleon: "I myself entered Russia. the Russian armies could not stand before our armies. The French arms were constantly victorious.____"a swarm of Tartars turned their__parricidal hands against the finest provinces of that vast Empire which they had been called to defend.____"But the excessive and premature rigour of the winter brought down a heavy calamity upon my army___in a few nights I saw everything change.___"the misfortunes produced by rigour of hoar frosts, have been made apparent in all their extent, ___I experienced great losses___they would have broken my heart, if under such circumstances I could have been accessible to any other sentiments than those of the interest,-__the glory, __and the future prosperity of my people.___ " I have signed with the Pope a Concordat, which terminates all the diffirences that unfortunately had arisen in the Church.__ The French dynasty__ reigns,__ and will reign in Spain.___I am satisified with all my allies.___I will abandon none of them.___The Russians shall return into their frightful climate."
+      </mods:note>
+      <mods:note type="text" displayLabel="Inscription" lang="">Sold by CLINCH, 20, Princes-Street, SOHO</mods:note>
+      <mods:note type="text" displayLabel="Inscription" lang="">Price One Shilling Coloured</mods:note>
+      <mods:note type="text" displayLabel="Printed Signature" lang="">William Elmes Del__St.</mods:note>
+      <mods:note type="text" displayLabel="Plate Mark" lang="">189</mods:note>
+      <mods:subject>
+<mods:name type="personal">
+<mods:namePart>Napoleon</mods:namePart> 
+<mods:namePart type="termsOfAddress">I, Emperor of the French</mods:namePart>
+<mods:namePart type="date">1769-1821</mods:namePart>
+</mods:name>
+<mods:topic>Caricatures and cartoons</mods:topic>
+</mods:subject>
+<mods:relatedItem type="host" displayLabel="Collection:">
+
+<mods:titleInfo>
+<mods:title>Napoleonic Satires</mods:title>
+</mods:titleInfo>
+<mods:identifier type="COLID">2</mods:identifier>
+<mods:identifier type="URI">http://dl.lib.brown.edu/napoleon</mods:identifier>
+</mods:relatedItem>
+<mods:identifier type="local" displayLabel="ASKB Call No.:">Bullard E-59</mods:identifier>
+      <mods:location>
+         <mods:physicalLocation>John Hay Library</mods:physicalLocation>
+      </mods:location>
+</mods:mods>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:dmdSec>
+<METS:amdSec>
+
+<METS:techMD ID="AMD1">
+<METS:mdWrap MDTYPE="OTHER" LABEL="MIX">
+<METS:xmlData>
+<brownmix:BrownMix>
+<brownmix:BasicImageParameters>
+<brownmix:Format>
+<brownmix:MIMEType>image/tiff</brownmix:MIMEType>
+<brownmix:Compression>
+<brownmix:CompressionScheme>1</brownmix:CompressionScheme>
+</brownmix:Compression>
+<brownmix:PhotometricInterpretation>
+<brownmix:ColorSpace>2</brownmix:ColorSpace>
+</brownmix:PhotometricInterpretation>
+</brownmix:Format>
+<brownmix:File>
+<brownmix:FileSize>201105316</brownmix:FileSize>
+</brownmix:File>
+</brownmix:BasicImageParameters>
+<brownmix:ImageCreation>
+<brownmix:ImageProducer>Brown University Library, CDI</brownmix:ImageProducer>
+<brownmix:DeviceSource>Scanner</brownmix:DeviceSource>
+<brownmix:ScanningSystemCapture>
+<brownmix:ScanningSystemHardware>
+<brownmix:ScannerManufacturer>Epson</brownmix:ScannerManufacturer>
+<brownmix:ScannerModel>
+<brownmix:ScannerModelNumber>1640 XL</brownmix:ScannerModelNumber>
+</brownmix:ScannerModel>
+</brownmix:ScanningSystemHardware>
+<brownmix:ScanningSystemSoftware>
+<brownmix:ScanningSoftware>Adobe</brownmix:ScanningSoftware>
+<brownmix:ScanningSoftwareVersionNo>6.0</brownmix:ScanningSoftwareVersionNo>
+</brownmix:ScanningSystemSoftware>
+</brownmix:ScanningSystemCapture>
+<brownmix:DateTimeCreated>2006-05-15T00:00:00.001</brownmix:DateTimeCreated>
+</brownmix:ImageCreation>
+<brownmix:ImagingPerformanceAssessment>
+<brownmix:SpatialMetrics>
+<brownmix:SamplingFrequencyUnit>2</brownmix:SamplingFrequencyUnit>
+<brownmix:XSamplingFrequency>600</brownmix:XSamplingFrequency>
+<brownmix:YSamplingFrequency>600</brownmix:YSamplingFrequency>
+<brownmix:ImageWidth>6427</brownmix:ImageWidth>
+<brownmix:ImageLength>10429</brownmix:ImageLength>
+</brownmix:SpatialMetrics>
+<brownmix:Energetics>
+<brownmix:BitsPerSample>8,8,8</brownmix:BitsPerSample>
+<brownmix:SamplesPerPixel>3</brownmix:SamplesPerPixel>
+</brownmix:Energetics>
+</brownmix:ImagingPerformanceAssessment>
+</brownmix:BrownMix>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:techMD>
+
+
+<METS:techMD ID="AMD2">
+<METS:mdWrap MDTYPE="OTHER" LABEL="MIX">
+<METS:xmlData>
+<brownmix:BrownMix>
+<brownmix:BasicImageParameters>
+<brownmix:Format>
+<brownmix:MIMEType>image/jpeg</brownmix:MIMEType>
+<brownmix:Compression>
+<brownmix:CompressionScheme>6</brownmix:CompressionScheme>
+</brownmix:Compression>
+<brownmix:PhotometricInterpretation>
+<brownmix:ColorSpace>2</brownmix:ColorSpace>
+</brownmix:PhotometricInterpretation>
+</brownmix:Format>
+<brownmix:File>
+<brownmix:FileSize>23373</brownmix:FileSize>
+</brownmix:File>
+</brownmix:BasicImageParameters>
+<brownmix:ImageCreation>
+<brownmix:ImageProducer>Brown University Library, CDI</brownmix:ImageProducer>
+</brownmix:ImageCreation>
+<brownmix:ImagingPerformanceAssessment>
+<brownmix:SpatialMetrics>
+<brownmix:SamplingFrequencyUnit>2</brownmix:SamplingFrequencyUnit>
+<brownmix:XSamplingFrequency>600</brownmix:XSamplingFrequency>
+<brownmix:YSamplingFrequency>600</brownmix:YSamplingFrequency>
+<brownmix:ImageWidth>77</brownmix:ImageWidth>
+<brownmix:ImageLength>125</brownmix:ImageLength>
+</brownmix:SpatialMetrics>
+</brownmix:ImagingPerformanceAssessment>
+<brownmix:ChangeHistory>
+<brownmix:ImageProcessing>
+<brownmix:DateTimeProcessed>2006-05-15T00:00:00.001</brownmix:DateTimeProcessed>
+<brownmix:SourceData>1147733081970256.tif</brownmix:SourceData>
+<brownmix:ProcessingAgency>Brown University Library, CDI</brownmix:ProcessingAgency>
+<brownmix:ProcessingSoftware>
+<brownmix:ProcessingSoftwareName>ImageMagick</brownmix:ProcessingSoftwareName>
+<brownmix:ProcessingSoftwareVersion>5.5.7</brownmix:ProcessingSoftwareVersion>
+</brownmix:ProcessingSoftware>
+<brownmix:ProcessingActions>Derivative JPEG created from original file</brownmix:ProcessingActions>
+</brownmix:ImageProcessing>
+</brownmix:ChangeHistory>
+</brownmix:BrownMix>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:techMD>
+
+
+<METS:techMD ID="AMD3">
+<METS:mdWrap MDTYPE="OTHER" LABEL="MIX">
+<METS:xmlData>
+<brownmix:BrownMix>
+<brownmix:BasicImageParameters>
+<brownmix:Format>
+<brownmix:MIMEType>image/jpeg2000</brownmix:MIMEType>
+<brownmix:Compression>
+<brownmix:CompressionScheme>65002</brownmix:CompressionScheme>
+<brownmix:CompressionLevel>9.97</brownmix:CompressionLevel>
+</brownmix:Compression>
+<brownmix:PhotometricInterpretation>
+<brownmix:ColorSpace>2</brownmix:ColorSpace>
+<brownmix:Segments>
+<brownmix:TileWidth>1024</brownmix:TileWidth>
+<brownmix:TileLength>1024</brownmix:TileLength>
+</brownmix:Segments>
+</brownmix:PhotometricInterpretation>
+</brownmix:Format>
+<brownmix:File>
+<brownmix:FileSize>20159074</brownmix:FileSize>
+</brownmix:File>
+</brownmix:BasicImageParameters>
+<brownmix:ImageCreation>
+<brownmix:ImageProducer>Brown University Library, CDI</brownmix:ImageProducer>
+</brownmix:ImageCreation>
+<brownmix:ImagingPerformanceAssessment>
+<brownmix:SpatialMetrics>
+<brownmix:ImageWidth>6427</brownmix:ImageWidth>
+<brownmix:ImageLength>10429</brownmix:ImageLength>
+<brownmix:ResLevels>7</brownmix:ResLevels>
+</brownmix:SpatialMetrics>
+</brownmix:ImagingPerformanceAssessment>
+<brownmix:ChangeHistory>
+<brownmix:ImageProcessing>
+<brownmix:DateTimeProcessed>2006-05-15T00:00:00.001</brownmix:DateTimeProcessed>
+<brownmix:SourceData>1147733081970256.tif</brownmix:SourceData>
+<brownmix:ProcessingAgency>Brown University Library, CDI</brownmix:ProcessingAgency>
+<brownmix:ProcessingSoftware>
+<brownmix:ProcessingSoftwareName>Aware J2KDriver</brownmix:ProcessingSoftwareName>
+<brownmix:ProcessingSoftwareVersion>3.5.6.3</brownmix:ProcessingSoftwareVersion>
+</brownmix:ProcessingSoftware>
+<brownmix:ProcessingActions>Derivative JPEG2000 created from original file</brownmix:ProcessingActions>
+</brownmix:ImageProcessing>
+</brownmix:ChangeHistory>
+</brownmix:BrownMix>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:techMD>
+
+<METS:rightsMD ID="RMD1">
+<METS:mdWrap MDTYPE="OTHER" LABEL="RIGHTSMD">
+<METS:xmlData>
+<rights:RightsDeclarationMD RIGHTSCATEGORY="PUBLIC DOMAIN">
+<rights:RightsDeclaration>
+This object is available for public use. Individuals interested in reproducing this object in a publication, web site or for any commercial purpose must first receive written permission from the Brown University Library. 
+</rights:RightsDeclaration> 
+<rights:RightsHolder>
+<rights:RightsHolderName>Brown University</rights:RightsHolderName> 
+<rights:RightsHolderContact>
+<rights:RightsHolderContactDesignation>Anne S.K. Brown Military Collection</rights:RightsHolderContactDesignation>
+<rights:RightsHolderContactAddress>Box A, Brown University, Providence, RI 02912</rights:RightsHolderContactAddress> 
+<rights:RightsHolderContactEmail>askb@brown.edu</rights:RightsHolderContactEmail> 
+</rights:RightsHolderContact>
+</rights:RightsHolder>
+</rights:RightsDeclarationMD>
+</METS:xmlData>
+</METS:mdWrap>
+</METS:rightsMD>
+</METS:amdSec>
+<METS:fileSec>
+<METS:fileGrp USE="thumbnail">
+<METS:file ID="FID1" MIMETYPE="image/jpeg" SEQ="1" GROUPID="GID1" CHECKSUMTYPE="MD5" CHECKSUM="A6C66A9F3832DECBACA2D0C7496F57FB" ADMID="AMD2">
+<METS:FLocat LOCTYPE="URL" xlink:href="http://dl.lib.brown.edu/jpegs/1147733094423382.jpg"/>
+</METS:file>
+</METS:fileGrp>
+<METS:fileGrp USE="usecopy">
+<METS:file ID="FID2" MIMETYPE="image/jpeg2000" SEQ="1" GROUPID="GID1" CHECKSUMTYPE="MD5" CHECKSUM="4B02150574E1B321B526B095F82BBA0E" ADMID="AMD3">
+<METS:FLocat LOCTYPE="OTHER" OTHERLOCTYPE="fileid" xlink:href="1147733144860875.jp2"/>
+</METS:file>
+</METS:fileGrp>
+<METS:fileGrp USE="master">
+<METS:file ID="FID3" MIMETYPE="image/tiff" SEQ="1" GROUPID="GID1" CHECKSUMTYPE="MD5" CHECKSUM="80172D87C6A762C0053CAD9215AE2535" ADMID="AMD1">
+<METS:FLocat LOCTYPE="OTHER" xlink:href="1147733081970256.tif"/>
+</METS:file>
+</METS:fileGrp>
+</METS:fileSec>
+<METS:structMap TYPE="physical">
+<METS:div TYPE="images" DMDID="DM1" ADMID="RMD1" LABEL="Bonaparte adressing the legislative body" ID="div1">
+<METS:div ORDER="1" TYPE="image" ID="div2">
+<METS:fptr FILEID="FID1"/>
+<METS:fptr FILEID="FID2"/>
+<METS:fptr FILEID="FID3"/>
+</METS:div>
+</METS:div>
+</METS:structMap>
+</METS:mets>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://loc.gov/ead/ead3_undeprecated.dtd" type="application/xml-dtd"?>
+<ead xmlns="http://ead3.archivists.org/schema/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" audience="external">
+    <control countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <recordid instanceurl="http://jajohnst.si.umich.edu/fake-ead.xml">1234</recordid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>A Finding Aid for the Superior Papers</titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>University of Michigan School of Information</publisher>
+                <date normal="2022-09-01">September 2022</date>
+            </publicationstmt>
+        </filedesc>
+    </control>
+    <archdesc level="collection" audience="external">
+        <did>
+            <repository>
+                <corpname>
+                    <part>University of Michigan</part>
+                    <part>School of Information</part>
+                </corpname>
+            </repository>
+            <unittitle><title>The Superior Papers</title></unittitle>
+            <unitdate normal="1850/1975" unitdatetype="inclusive">1850-1975</unitdate>
+        </did>
+        <!-- here would be additional information like scope, bioghist, and contents lists -->
+        <bioghist>This collection is a superior collection of papers for a superior organization and individual.</bioghist>
+        <dsc dsctype="otherdsctype" audience="external">
+            <c01 level="series">Business Records</c01>
+            <c02 level="series">Correspondence</c02>
+            <c03 level="file" audience="internal">Personal File</c03>
+        </dsc>
+    </archdesc>
+</ead>

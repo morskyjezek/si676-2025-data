@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:mets="http://www.loc.gov/METS/" xmlns:mix="http://www.loc.gov/mix/" xmlns:moa2="http://sunsite.berkeley.edu/MOA2/" xmlns:cdl="http://www.cdlib.org/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:premis="http://www.loc.gov/standards/premis/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rts="http://cosimo.stanford.edu/sdr/metsrights/" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/METS/  http://www.loc.gov/standards/mets/mets.xsd  http://www.loc.gov/standards/rights/METSRights.xsd  http://www.loc.gov/mods/v3/  http://www.loc.gov/standards/mods/v3/mods-3-4.xsd  http://www.loc.gov/mix/v10/  http://www.loc.gov/standards/mix/mix10/mix10.xsd  info:lc/xmlns/premis-v2/  http://www.loc.gov/standards/premis/premis.xsd" OBJID="ark:/13030/tf238nb201" LABEL="Cable spinning" PROFILE="http://www.loc.gov/mets/profiles/00000013.xml" TYPE="generic">
+
+ 
+<mets:metsHdr CREATEDATE="2009-05-26T02:15:02" LASTMODDATE="2016-05-25T09:38:37">
+  <mets:agent ROLE="CREATOR" TYPE="ORGANIZATION">
+   <mets:name>University of California, Berkeley::Bancroft Library</mets:name>
+  </mets:agent>
+<altRecordID>http://nma.berkeley.edu/ark:/13030/tf238nb201</altRecordID></mets:metsHdr>
+
+<mets:dmdSec ID="DMR1">
+<mets:mdRef xlink:href="http://oskicat.berkeley.edu/record=b10707847" LOCTYPE="URL" MDTYPE="MARC" LABEL="Catalog Record"/>
+</mets:dmdSec>
+
+<mets:dmdSec ID="DMR2">
+<mets:mdRef xlink:href="http://www.oac.cdlib.org/findaid/ark:/13030/tf6b69p1kk" XPTR="xpointer(id('m252266534'))" LOCTYPE="URL" MDTYPE="EAD" LABEL="Construction Photographs of the Golden Gate Bridge"/>
+</mets:dmdSec>
+
+<mets:dmdSec ID="DM1">
+ <mets:mdWrap MDTYPE="MODS" LABEL="Cable spinning">
+  <mets:xmlData>
+    <mods:mods><mods:titleInfo>
+      <mods:title>Cable spinning</mods:title>
+     </mods:titleInfo><mods:typeOfResource>still image</mods:typeOfResource><mods:relatedItem displayLabel="Metacollection" type="host">
+      <mods:titleInfo>
+       <mods:title>California Heritage Collection</mods:title>
+      </mods:titleInfo>
+      <mods:identifier type="uri">http://bancroft.berkeley.edu/collections/calheritage.html</mods:identifier>
+     </mods:relatedItem><mods:relatedItem displayLabel="Collection" type="host">
+      <mods:titleInfo>
+       <mods:title>Construction Photographs of the Golden Gate Bridge</mods:title>
+      </mods:titleInfo>
+      <mods:identifier type="local">BANC PIC 1905.14251-.14284--PIC</mods:identifier>
+      <mods:identifier type="uri">http://www.oac.cdlib.org/findaid/ark:/13030/tf6b69p1kk</mods:identifier>
+     </mods:relatedItem><mods:identifier displayLabel="Local Call Number" type="local">BANC PIC 1905.14253:001--PIC</mods:identifier><mods:identifier type="filename" displayLabel="Filename">I0036656a.tif</mods:identifier><mods:location>
+    <mods:physicalLocation>The Bancroft Library;;, University of California, Berkeley, Berkeley, CA 94720-6000, Phone: (510) 642-6481, Fax: (510) 642-7589, Email: bancref@library.berkeley.edu;;, URL: http://bancroft.berkeley.edu/</mods:physicalLocation>
+   </mods:location><mods:accessCondition displayLabel="Copyright Note">Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</mods:accessCondition>
+<mods:accessCondition displayLabel="Copyright Owner Note">All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Public Services, The Bancroft Library, University of California, Berkeley 94720-6000. See: http://bancroft.berkeley.edu/reference/permissions.html</mods:accessCondition>
+</mods:mods>
+  </mets:xmlData>
+ </mets:mdWrap>
+</mets:dmdSec>
+
+<mets:amdSec>
+
+ <mets:techMD ID="ADM1">
+  <mets:mdWrap MDTYPE="NISOIMG">
+   <mets:xmlData>
+    <mix:mix xmlns:mix="http://www.loc.gov/mix/v10">
+
+     <mix:BasicDigitalObjectInformation>
+       <mix:FormatDesignation>
+   <mix:formatName>image/tiff</mix:formatName>
+       </mix:FormatDesignation>
+     </mix:BasicDigitalObjectInformation>
+
+    </mix:mix>
+   </mets:xmlData>
+  </mets:mdWrap>
+ </mets:techMD>
+
+ <mets:techMD ID="ADM2">
+  <mets:mdWrap MDTYPE="NISOIMG">
+   <mets:xmlData>
+    <mix:mix xmlns:mix="http://www.loc.gov/mix/v10">
+
+     <mix:BasicDigitalObjectInformation>
+       <mix:FormatDesignation>
+   <mix:formatName>image/gif</mix:formatName> 
+       </mix:FormatDesignation>
+       <mix:Compression>
+   <mix:compressionScheme>LZW</mix:compressionScheme>
+       </mix:Compression>
+     </mix:BasicDigitalObjectInformation>
+     <mix:BasicImageInformation>
+       <mix:BasicImageCharacteristics>
+   <mix:PhotometricInterpretation>
+     <mix:colorSpace>PaletteColor</mix:colorSpace>
+   </mix:PhotometricInterpretation>
+       </mix:BasicImageCharacteristics>
+     </mix:BasicImageInformation>
+     <mix:ImageAssessmentMetadata>
+       <mix:ImageColorEncoding>
+   <mix:bitsPerSample>
+     <mix:bitsPerSampleValue>8</mix:bitsPerSampleValue>
+     <mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+   </mix:bitsPerSample>
+   <mix:samplesPerPixel>1</mix:samplesPerPixel>
+       </mix:ImageColorEncoding>
+     </mix:ImageAssessmentMetadata>
+
+    </mix:mix>
+   </mets:xmlData>
+  </mets:mdWrap>
+ </mets:techMD>
+
+ <mets:techMD ID="ADM3">
+  <mets:mdWrap MDTYPE="NISOIMG">
+   <mets:xmlData>
+    <mix:mix xmlns:mix="http://www.loc.gov/mix/v10">
+
+     <mix:BasicDigitalObjectInformation>
+       <mix:FormatDesignation>
+   <mix:formatName>image/jpeg</mix:formatName> 
+       </mix:FormatDesignation>
+       <mix:Compression>
+   <mix:compressionScheme>JPEG Baseline Sequential</mix:compressionScheme>
+       </mix:Compression>
+     </mix:BasicDigitalObjectInformation>
+     <mix:BasicImageInformation>
+       <mix:BasicImageCharacteristics>
+   <mix:PhotometricInterpretation>
+     <mix:colorSpace>YCbCr</mix:colorSpace>
+   </mix:PhotometricInterpretation>
+       </mix:BasicImageCharacteristics>
+     </mix:BasicImageInformation>
+     <mix:ImageAssessmentMetadata>
+       <mix:ImageColorEncoding>
+   <mix:bitsPerSample>
+     <mix:bitsPerSampleValue>8,8,8</mix:bitsPerSampleValue>
+     <mix:bitsPerSampleUnit>integer</mix:bitsPerSampleUnit>
+   </mix:bitsPerSample>
+   <mix:samplesPerPixel>3</mix:samplesPerPixel>
+       </mix:ImageColorEncoding>
+     </mix:ImageAssessmentMetadata>
+
+    </mix:mix>
+   </mets:xmlData>
+  </mets:mdWrap>
+ </mets:techMD>
+
+ <mets:techMD ID="ADM4">
+  <mets:mdWrap MDTYPE="NISOIMG">
+   <mets:xmlData>
+    <mix:mix xmlns:mix="http://www.loc.gov/mix/v10">
+     <mix:BasicDigitalObjectInformation>
+       <mix:ObjectIdentifier>
+   <mix:objectIdentifierType>ark</mix:objectIdentifierType>
+   <mix:objectIdentifierValue>ark:/28722/bk000556f23</mix:objectIdentifierValue>
+       </mix:ObjectIdentifier>
+     </mix:BasicDigitalObjectInformation>
+     <mix:BasicImageInformation>
+       <mix:BasicImageCharacteristics>
+       </mix:BasicImageCharacteristics>
+     </mix:BasicImageInformation>
+     <mix:ImageCaptureMetadata>
+       <mix:SourceInformation>
+   <mix:sourceType>still image/item</mix:sourceType>
+   <mix:SourceID>
+     <mix:sourceIDType>Local identifier</mix:sourceIDType>
+     <mix:sourceIDValue>BANC PIC 1905.14253:001--PIC</mix:sourceIDValue>
+   </mix:SourceID>
+       </mix:SourceInformation>
+       <mix:GeneralCaptureInformation>
+   <mix:dateTimeCreated>2009-05-06</mix:dateTimeCreated>
+       </mix:GeneralCaptureInformation>
+     </mix:ImageCaptureMetadata>
+    </mix:mix>
+   </mets:xmlData>
+  </mets:mdWrap>
+ </mets:techMD>
+
+ <mets:techMD ID="ADM5">
+  <mets:mdWrap MDTYPE="NISOIMG">
+   <mets:xmlData>
+    <mix:mix xmlns:mix="http://www.loc.gov/mix/v10">
+     <mix:BasicDigitalObjectInformation>
+       <mix:ObjectIdentifier>
+   <mix:objectIdentifierType>ark</mix:objectIdentifierType>
+   <mix:objectIdentifierValue>ark:/28722/bk000556f3n</mix:objectIdentifierValue>
+       </mix:ObjectIdentifier>
+     </mix:BasicDigitalObjectInformation>
+     <mix:BasicImageInformation>
+       <mix:BasicImageCharacteristics>
+   <mix:imageWidth>192</mix:imageWidth>
+   <mix:imageHeight>128</mix:imageHeight>
+       </mix:BasicImageCharacteristics>
+     </mix:BasicImageInformation>
+     <mix:ChangeHistory>
+       <mix:ImageProcessing>
+   <mix:dateTimeProcessed>2009-05-06</mix:dateTimeProcessed>
+   <mix:sourceData>http://nma.berkeley.edu/ark:/28722/bk000556f23</mix:sourceData>
+       </mix:ImageProcessing>
+     </mix:ChangeHistory>
+    </mix:mix>
+   </mets:xmlData>
+  </mets:mdWrap>
+ </mets:techMD>
+
+ <mets:techMD ID="ADM6">
+  <mets:mdWrap MDTYPE="NISOIMG">
+   <mets:xmlData>
+    <mix:mix xmlns:mix="http://www.loc.gov/mix/v10">
+     <mix:BasicDigitalObjectInformation>
+       <mix:ObjectIdentifier>
+   <mix:objectIdentifierType>ark</mix:objectIdentifierType>
+   <mix:objectIdentifierValue>ark:/28722/bk000556f46</mix:objectIdentifierValue>
+       </mix:ObjectIdentifier>
+     </mix:BasicDigitalObjectInformation>
+     <mix:BasicImageInformation>
+       <mix:BasicImageCharacteristics>
+   <mix:imageWidth>768</mix:imageWidth>
+   <mix:imageHeight>512</mix:imageHeight>
+       </mix:BasicImageCharacteristics>
+     </mix:BasicImageInformation>
+     <mix:ChangeHistory>
+       <mix:ImageProcessing>
+   <mix:dateTimeProcessed>2009-05-06</mix:dateTimeProcessed>
+   <mix:sourceData>http://nma.berkeley.edu/ark:/28722/bk000556f23</mix:sourceData>
+       </mix:ImageProcessing>
+     </mix:ChangeHistory>
+    </mix:mix>
+   </mets:xmlData>
+  </mets:mdWrap>
+ </mets:techMD>
+
+ <mets:techMD ID="ADM7">
+  <mets:mdWrap MDTYPE="NISOIMG">
+   <mets:xmlData>
+    <mix:mix xmlns:mix="http://www.loc.gov/mix/v10">
+     <mix:BasicDigitalObjectInformation>
+       <mix:ObjectIdentifier>
+   <mix:objectIdentifierType>ark</mix:objectIdentifierType>
+   <mix:objectIdentifierValue>ark:/28722/bk000556f5r</mix:objectIdentifierValue>
+       </mix:ObjectIdentifier>
+     </mix:BasicDigitalObjectInformation>
+     <mix:BasicImageInformation>
+       <mix:BasicImageCharacteristics>
+   <mix:imageWidth>1536</mix:imageWidth>
+   <mix:imageHeight>1024</mix:imageHeight>
+       </mix:BasicImageCharacteristics>
+     </mix:BasicImageInformation>
+     <mix:ChangeHistory>
+       <mix:ImageProcessing>
+   <mix:dateTimeProcessed>2009-05-06</mix:dateTimeProcessed>
+   <mix:sourceData>http://nma.berkeley.edu/ark:/28722/bk000556f23</mix:sourceData>
+       </mix:ImageProcessing>
+     </mix:ChangeHistory>
+    </mix:mix>
+   </mets:xmlData>
+  </mets:mdWrap>
+ </mets:techMD>
+
+ <mets:rightsMD ID="RMD1">
+  <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="METSRights">
+   <mets:xmlData>
+    <rts:RightsDeclarationMD RIGHTSCATEGORY="OTHER" OTHERCATEGORYTYPE="UNKNOWN">
+     <rts:RightsHolder>
+      <rts:RightsHolderComments>All requests to reproduce, publish, quote from, or otherwise use collection materials must be submitted in writing to the Head of Public Services, The Bancroft Library, University of California, Berkeley 94720-6000. See: http://bancroft.berkeley.edu/reference/permissions.html</rts:RightsHolderComments>
+     </rts:RightsHolder>
+     <rts:Context CONTEXTCLASS="GENERAL PUBLIC">
+      <rts:Constraints>
+       <rts:ConstraintDescription>Some materials in these collections may be protected by the U.S. Copyright Law (Title 17, U.S.C.). In addition, the reproduction of some materials may be restricted by terms of University of California gift or purchase agreements, donor restrictions, privacy and publicity rights, licensing and trademarks. Transmission or reproduction of materials protected by copyright beyond that allowed by fair use requires the written permission of the copyright owners. Works not in the public domain cannot be commercially exploited without permission of the copyright owner. Responsibility for any use rests exclusively with the user.</rts:ConstraintDescription>
+      </rts:Constraints>
+     </rts:Context>
+    </rts:RightsDeclarationMD>
+
+   </mets:xmlData>
+  </mets:mdWrap>
+ </mets:rightsMD>
+
+</mets:amdSec>
+
+<mets:fileSec>
+
+ <mets:fileGrp USE="image/master">
+   <mets:file ID="FID1" MIMETYPE="image/tiff" SEQ="1" CREATED="2009-05-06T15:54:51.77" ADMID="ADM1 ADM4" GROUPID="GID1">
+    <mets:FLocat xlink:href="http://nma.berkeley.edu/ark:/28722/bk000556f23" LOCTYPE="URL"/>
+   </mets:file>
+ </mets:fileGrp>
+
+ <mets:fileGrp USE="image/thumbnail">
+   <mets:file ID="thumbnail" MIMETYPE="image/gif" SEQ="1" CREATED="2009-05-06T15:54:51.77" ADMID="ADM2" GROUPID="GID1" SIZE="19839" CHECKSUM="69d9fcbe6345176db779b7ff7b5ecd6e5bcd8bc8" CHECKSUMTYPE="SHA-256">
+    <FLocat xlink:href="http://content.cdlib.org/dynaxml/data/13030/01/tf238nb201/files/tf238nb201-FID2.gif"/><mets:FLocat xlink:href="http://nma.berkeley.edu/ark:/28722/bk000556f3n" LOCTYPE="URL"/>
+   </mets:file>
+ </mets:fileGrp>
+
+ <mets:fileGrp USE="image/reference">
+   <mets:file ID="FID3" MIMETYPE="image/jpeg" SEQ="1" CREATED="2009-05-06T15:54:51.787" ADMID="ADM3" GROUPID="GID1" SIZE="44099" CHECKSUM="d3d2ce953205f9de8618f18b934e12af2920a119" CHECKSUMTYPE="SHA-256">
+    <FLocat xlink:href="http://content.cdlib.org/dynaxml/data/13030/01/tf238nb201/files/tf238nb201-FID3.jpg"/><mets:FLocat xlink:href="http://nma.berkeley.edu/ark:/28722/bk000556f46" LOCTYPE="URL"/>
+   </mets:file>
+ </mets:fileGrp>
+
+ <mets:fileGrp USE="image/reference">
+   <mets:file ID="FID4" MIMETYPE="image/jpeg" SEQ="1" CREATED="2009-05-06T15:54:51.8" ADMID="ADM3" GROUPID="GID1" SIZE="162167" CHECKSUM="43c50f91bb6b1f45f4bc35a123f3a435b3ea7277" CHECKSUMTYPE="SHA-256">
+    <FLocat xlink:href="http://content.cdlib.org/dynaxml/data/13030/01/tf238nb201/files/tf238nb201-FID4.jpg"/><mets:FLocat xlink:href="http://nma.berkeley.edu/ark:/28722/bk000556f5r" LOCTYPE="URL"/>
+   </mets:file>
+ </mets:fileGrp>
+
+</mets:fileSec>
+
+<mets:structMap>
+ <mets:div TYPE="item" LABEL="Cable spinning" ADMID="RMD1" DMDID="DMR1 DMR2 DM1">
+   <mets:div TYPE="image/master"><mets:fptr FILEID="FID1"/></mets:div>
+   <mets:div TYPE="image/thumbnail"><mets:fptr FILEID="thumbnail" cdl:X="192" cdl:Y="128"/></mets:div>
+   <mets:div TYPE="image/reference"><mets:fptr FILEID="FID3" cdl:X="768" cdl:Y="512"/></mets:div>
+   <mets:div TYPE="image/reference"><mets:fptr FILEID="FID4" cdl:X="1536" cdl:Y="1024"/></mets:div>
+ </mets:div>
+</mets:structMap>
+
+</mets>
