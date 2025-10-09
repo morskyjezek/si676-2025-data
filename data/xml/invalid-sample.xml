@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order id="1234">
+        <item sku="444" quantity="2">
+            <deliveryAddress>
+                <city>Ann Arbor</cit>
+                <state>Michigan</state>
+            </deliveryAddress>
+        </item>
+        <item sku="555" quantity="5">
+            <city>Ithaca</city>
+            <state>New York</state>
+        </item>
+    </order>
+<orders>
