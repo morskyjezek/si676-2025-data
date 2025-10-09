@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xhtml:html xmlns:xhtml="http://www.w3c.org/1999/xhtml" xmlns:bo="http://www.nogood.com/Book">
+  <xhtml:head>
+    <xhtml:title>My home page</xhtml:title>
+  </xhtml:head>
+  <xhtml:body>
+    <xhtml:p>My hobby</xhtml:p>
+    <xhtml:p>My books</xhtml:p>
+    <bo:Book>
+      <bo:isbn>0743204794</bo:isbn>
+      <bo:author>Kevin Davies</bo:author>
+    </bo:Book>
+  </xhtml:body>
+</xhtml:html>
