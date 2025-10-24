@@ -1,0 +1,6 @@
+﻿prefix,namespace,example
+sdo,https://schema.org/,sdo:isbn
+dcterms,http://purl.org/dc/terms/,dcterms:date
+foaf,http://xmlns.com/foaf/0.1/,foaf:name
+xsd,http://www.w3.org/2001/XMLSchema#,xsd:dateTime
+mods,http://www.loc.gov/mods/rdf/v1#,mods:physicalForm

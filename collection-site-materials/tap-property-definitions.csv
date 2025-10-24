@@ -1,0 +1,7 @@
+﻿shapeID,shapeLabel,propertyID,propertyLabel,mandatory,repeatable,valueNodeType,valueDataType,valueConstraint,valueConstraintType,valueShape,note
+,,dcterms:title,Title,TRUE,FALSE,literal,xsd:string,,,,
+,,dcterms:creator,Creator,FALSE,TRUE,literal,xsd:string,,,,
+,,dcterms:date,Date,FALSE,TRUE,literal,xsd:date,,,,
+,,mods:physicalExtent,Physical Extent,FALSE,TRUE,,xsd:string,,,,
+,,dcterms:rights,Rights,FALSE,TRUE,IRI,,https://rightsstatements.org/en/,IRIstem,,
+,,dcterms:subject,Subject(s),FALSE,TRUE,literal,xsd:string,"Libraries,History,Photographs",picklist,,

@@ -1,0 +1,40 @@
+{
+  "omekas_shapes" : [
+    {
+      "dcterms:title": [ {
+      "propertyLabel" : "Title",
+      "valueNodeType" : "literal"
+      } ]
+    },
+    {
+      "dcterms:creator": [ {
+      "propertyLabel" : "Creator",
+      "valueNodeType" : "literal"
+      } ]
+    },
+    {
+      "dcterms:date": [ {
+      "propertyLabel" : "Date",
+      "valueNodeType" : "literal"
+      } ]
+    },
+    {
+      "mods:physicalExtent": [ {
+      "propertyLabel" : "Physical Extent",
+      "valueNodeType" : null
+      } ]
+    },
+    {
+      "dcterms:rights": [ {
+      "propertyLabel" : "Rights",
+      "valueNodeType" : "URI"
+      } ]
+    },
+    {
+      "dcterms:subject": [ {
+      "propertyLabel" : "Subject(s)",
+      "valueNodeType" : "literal"
+      } ]
+    }
+  ]
+}

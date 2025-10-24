@@ -1,0 +1,44 @@
+{
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "is_public": true,
+      "@value": null
+    }
+  ],
+  "dcterms:creator": [
+    {
+      "type": "literal",
+      "is_public": true,
+      "@value": null
+    }
+  ],
+  "dcterms:date": [
+    {
+      "type": "literal",
+      "is_public": true,
+      "@value": null
+    }
+  ],
+  "mods:physicalExtent": [
+    {
+      "type": "",
+      "is_public": true,
+      "@value": null
+    }
+  ],
+  "dcterms:rights": [
+    {
+      "type": "IRI",
+      "is_public": true,
+      "@value": null
+    }
+  ],
+  "dcterms:subject": [
+    {
+      "type": "literal",
+      "is_public": true,
+      "@value": null
+    }
+  ]
+}
