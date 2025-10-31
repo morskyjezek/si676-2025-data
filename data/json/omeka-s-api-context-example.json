@@ -1,0 +1,12 @@
+{
+  "@context": {
+    "o": "http://omeka.org/s/vocabs/o#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dctype": "http://purl.org/dc/dcmitype/",
+    "bibo": "http://purl.org/ontology/bibo/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "mods": "http://www.loc.gov/mods/rdf/v1#",
+    "o-cnt": "http://www.w3.org/2011/content#",
+    "o-time": "http://www.w3.org/2006/time#"
+  }
+}
