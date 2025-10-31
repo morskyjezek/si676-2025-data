@@ -1,0 +1,10 @@
+{
+    "dcterms:title" : [ 
+        { 
+            "type" : "literal", 
+            "property_label" : "Title", 
+            "@value" : "NewItemSetfromAPI", 
+            "property_id" : 1 
+        } 
+    ]
+}

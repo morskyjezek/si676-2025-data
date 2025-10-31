@@ -1,0 +1,31 @@
+{
+    "dcterms:title": [
+        {
+            "property_id": 1,
+            "property_label": "Title",
+            "@value": "An image of an Orca, archived from an old website, and uploaded via the API",
+            "type": "literal"
+        }
+    ],
+    "@type": "o:Item",
+    "o:item_set": [
+        {
+            "o:id": 440
+        }
+    ],
+    "o:media": [
+        {
+            "o:ingester": "upload",
+            "file_index": "0",
+            "o:item": {},
+            "dcterms:title": [
+                {
+                    "property_id": 1,
+                    "property_label": "Title",
+                    "@value": "Media file for the archived Orca image",
+                    "type": "literal"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "dcterms:title": [
+        {
+            "type": "literal",
+            "property_id": 1,
+            "property_label": "Title",
+            "is_public": true,
+            "@value": "A Title of Something Ingested via the API"
+        }
+    ],
+    "dcterms:alternative": [
+        {
+            "type": "literal",
+            "property_id": 17,
+            "property_label": "Alternative Title",
+            "is_public": true,
+            "@value": "Here's an Alternative Title"
+        },
+        {
+            "type": "literal",
+            "property_id": 17,
+            "property_label": "Alternative Title",
+            "is_public": true,
+            "@value": "Here's another Alternative Title"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "type": "literal",
+            "property_id": 4,
+            "is_public": true,
+            "@value": "This is a description of an item that you could ingest using the Omeka S API"
+        }
+    ]
+}
