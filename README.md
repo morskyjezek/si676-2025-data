@@ -11,7 +11,7 @@ beyond their walls. The full course syllabus can be located at <https://docs.goo
 
 # Learning Goals
 
-These activities were designed with the intents to:
+These activities were designed with the intent to:
 
 * Gain confidence in using a non-graphical computer interface (i.e., a text-based command interface to work with local files and those on a remote server);
 * Understand how to use web-based services to share metadata (i.e., APIs, OAI-PMH);
