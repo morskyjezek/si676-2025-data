@@ -25,8 +25,10 @@ These activities were designed with the intent to:
 
 There are a few specific folders:
 
-- `in-class-notes` contains notebooks or other files that document demonstration sor activities understaken in class
 - `collection-site-materials` contains resources that may be useful for working on the course collection site activities
+- `data` contains sample files that illustrate various data formats and can be used for demonstrations, including various examples of CSV, JSON, and XML. Many of the notebooks in the `examples` folder use these data files as a source
+- `examples` contains Jupyter notebook files (`.ipynb`) that illustrate various activities that will be undertaken during the semester, as illustrated through blocks of script in Python. These are generally divided into samples that illustrate working with particular metadata formats using Python (such as CSV, XML, JSON, and linked data in JSON-LD), major steps of the ETL assignment sequence (specifically parts of the Exract and Transform steps), and working with APIs (specifically illustrated with data interfaces from the Library of Congress and, generically, Omeka S's built-in API)
+- `in-class-notes` contains notebooks or other files that document demonstration sor activities understaken in class
 
 ## Sources
 
