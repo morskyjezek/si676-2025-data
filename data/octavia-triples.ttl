@@ -1,0 +1,16 @@
+@prefix bfwork: <https://id.loc.gov/resources/works/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix wdt: <https://www.wikidata.org/wiki/> .
+@prefix wdtprop: <https://www.wikidata.org/wiki/Property:> .
+
+<https://viaf.org/viaf/34453955/> a foaf:Person ;
+    dcterms:creator bfwork:11780767,
+        wdt:Q3823447 ;
+    dcterms:identifier <http://id.loc.gov/rwo/agents/n79056654>,
+        wdt:Q239739 ;
+    foaf:name "Octavia E. Butler" .
+
+wdt:Q3823447 dcterms:identifier bfwork:11780767 ;
+    wdtprop:1476 "Parable of the Sower" ;
+    wdtprop:P50 <https://viaf.org/viaf/34453955/> .
