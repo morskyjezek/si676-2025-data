@@ -1,0 +1,20 @@
+base   <https://www.jesseajohnston.net/fake-schema/>
+prefix mods: <http://www.loc.gov/mods/v3>
+prefix bibo: <http://purl.org/ontology/bibo/>
+prefix wdt: <https://www.wikidata.org/wiki/>
+prefix dcterms: <http://purl.org/dc/terms/>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+prefix schema: <http://schema.org/>
+
+<#jane>
+    a foaf:Person ;
+    mods:name "Jane Austen"@en ;
+    wdt:Q36322 
+    dcterms:identifier http://id.loc.gov/authorities/names/n79032879 .
+
+bibo:work
+    dcterms:title "Pride and Prejudice" ;
+    wdt:Q36322 ;
+    wdt:P50 "Jane Austen"@en ;
+    dcterms:creator http://id.loc.gov/authorities/names/n79032879 ;
+

@@ -1,0 +1,14 @@
+@prefix mods: <http://www.loc.gov/mods/v3> . 
+@prefix bibo: <http://purl.org/ontology/bibo/> . 
+@prefix wdt: <https://www.wikidata.org/wiki/> .
+@prefix jj: <https://www.jesseajohnston.net/fake-schema/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+bibo:author     mods:name       "Jane Austen" ; wdt:Q36322 .
+wdt:Q36322		mods:title		"Pride and Prejudice" ; wdt:Q170583 .
+wdt:Q170583		mods:dateIssued	"1813" .
+wdt:Q170583		mods:genre		"Romance" .
+wdt:Q36322		jj:birthDate	"1775-01-13" .
+wdt:Q36322		jj:faveAnimal	"civet" . 
+wdt:Q36322		mods:title		"Emma" ; wdt:Q223880 .
+wdt:Q223880		mods:dateIssued	"1815" .
